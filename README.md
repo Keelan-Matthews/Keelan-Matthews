@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keelan Matthews</h1>
+<h1 align="center">Hey there, I'm Keelan Matthews</h1>
 <h3 align="center">An aspiring web developer from South Africa, with a love for creativity</h3>
 
 <a href="https://storyset.com/web" title="Web illustrations by Storyset"><img align="right" alt="Coding" width="400" src="https://i.ibb.co/L9Z2xg0/Coding-1.gif"></a>
