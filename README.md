@@ -69,4 +69,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=keelan-matthews&show_icons=true&theme=tokyonight&locale=en" alt="keelan-matthews" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keelan-matthews&show_icons=true&theme=tokyonight&locale=en&langs_count=10" alt="keelan-matthews" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keelan-matthews&show_icons=true&theme=tokyonight&locale=en&langs_count=10&layout=compact" alt="keelan-matthews" /></p>
