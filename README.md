@@ -46,6 +46,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en&langs_count=8&hide=Makefile,CMake,C&layout=compact" alt="keelan-matthews" /></p>
 
-<br/>
+<hr/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keelan Matthews' Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Keelan-Matthews&bg_color=191c21&color=C9D1D2&line=2C76D9&point=FFFFFF&hide_border=true" /></a>
