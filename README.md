@@ -1,13 +1,11 @@
-<h1 align="center">Hey there, I'm Keelan Matthews</h1>
+<h1 align="center">Hey there, I'm Keelan Matthews 👋</h1>
 <h3 align="center">An aspiring web developer from South Africa, with a love for creativity</h3>
 
 <!--<a href="https://storyset.com/web" title="Web illustrations by Storyset"><img align="right" alt="Coding" width="400" src="https://i.ibb.co/L9Z2xg0/Coding-1.gif"></a>-->
 
-- 🎓 I’m currently studying at [University of Pretoria](https://www.up.ac.za/)
+- 🎓 I’m currently studying [BIS Multimedia](https://www.up.ac.za/information-science/article/1821932/bis-multimedia) at [University of Pretoria](https://www.up.ac.za/)
 
-- 📚 I’m studying [BIS Multimedia](https://www.up.ac.za/information-science/article/1821932/bis-multimedia)
-
-- 🌱 I’m currently learning **ReactJS, Bootstrap, Java**
+- 🌱 I’m currently learning **Assembly, Next.js, Node.js**
 
 - 🌐 Check out my website here [keelanmatthews.com](keelanmatthews.com)
 
@@ -17,56 +15,37 @@
 
 - ⚡ Fun fact **I enjoy making music and playing piano**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keelan matthews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keelan matthews" height="30" width="40" /></a>
-</p>
-
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
+<h3 align="left">💡 Languages and Tools:</h3> 
+
+<p align="left">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=keelan-matthews&show_icons=true&theme=tokyonight&locale=en" alt="keelan-matthews" /></p>
+<br/>
+<h3>📊 Statistics</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en" alt="keelan-matthews" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keelan-matthews&show_icons=true&theme=tokyonight&locale=en&langs_count=8&layout=compact" alt="keelan-matthews" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en&langs_count=8&hide=Makefile,CMake,C&layout=compact" alt="keelan-matthews" /></p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keelan Matthews' Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Keelan-Matthews&bg_color=191c21&color=C9D1D2&line=2C76D9&point=FFFFFF&hide_border=true" /></a>
