@@ -40,6 +40,20 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
+## 📘 My top open source projects
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/Keelan-Matthews/vue-project">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=vue-project&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="vue-project">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
 <br/>
 <h3>📊 Statistics</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en" alt="keelan-matthews" />
