@@ -15,7 +15,7 @@
 
 <br />
 
-## 💡 Languages and Tools:
+## 💡 Languages and Tools
 
 <p align="left">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -66,10 +66,9 @@
 </p>
 
 <p align="left">
-  <a href=https://github.com/Keelan-Matthews?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Keelan-Matthews?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<br/>
 ## 📊 Statistics
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en" alt="keelan-matthews" />
 
