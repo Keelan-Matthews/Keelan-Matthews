@@ -46,22 +46,22 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/Keelan-Matthews/vue-project">
-    <img width="252" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=vue-project&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="vue-project">
+    <img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=vue-project&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="vue-project">
   </a>
   <a href="https://github.com/Keelan-Matthews/News-Website-Practicals">
-    <img width="252" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=News-Website-Practicals&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="News-Website-Practicals">
+    <img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=News-Website-Practicals&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="News-Website-Practicals">
   </a>
   <a href="https://github.com/Keelan-Matthews/xml-assignments">
-    <img width="252" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=xml-assignments&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="xml-assignments">
+    <img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=xml-assignments&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="xml-assignments">
   </a>
   <a href="https://github.com/Keelan-Matthews/portfolio-website">
-    <img width="252" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=portfolio-website&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="portfolio-website">
+    <img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=portfolio-website&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="portfolio-website">
   </a>
   <a href="https://github.com/Keelan-Matthews/alexi-yacht-portfolio">
-    <img width="252" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=alexi-yacht-portfolio&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="alexi-yacht-portfolio">
+    <img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=alexi-yacht-portfolio&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="alexi-yacht-portfolio">
   </a>
   <a href="https://github.com/Keelan-Matthews/Java-Assignments">
-    <img width="252" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=Java-Assignments&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="Java-Assignments">
+    <img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=Java-Assignments&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="Java-Assignments">
   </a>
 </p>
 
