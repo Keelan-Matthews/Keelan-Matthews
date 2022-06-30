@@ -47,8 +47,8 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/Keelan-Matthews/vue-project">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=vue-project&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="vue-project">
+  <a href="https://github.com/Keelan-Matthews/calendar-application">
+    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=calendar-application&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="calendar-application">
   </a>
   <a href="https://github.com/Keelan-Matthews/News-Website-Practicals">
     <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=News-Website-Practicals&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="News-Website-Practicals">
