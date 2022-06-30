@@ -62,8 +62,8 @@
   <a href="https://github.com/Keelan-Matthews/alexi-yacht-portfolio">
     <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=alexi-yacht-portfolio&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="alexi-yacht-portfolio">
   </a>
-  <a href="https://github.com/Keelan-Matthews/Java-Assignments">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=Java-Assignments&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="Java-Assignments">
+  <a href="https://github.com/Keelan-Matthews/java-assignments">
+    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Keelan-Matthews&repo=java-assignments&theme=none&bg_color=191c21&title_color=2C76D9&text_color=C9D1D2&icon_color=2C76D9&hide_border=true&show_icons=false" alt="java-assignments">
   </a>
 </p>
 
