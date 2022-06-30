@@ -15,7 +15,7 @@
 
 <br />
 
-<h3 align="left">💡 Languages and Tools:</h3> 
+## 💡 Languages and Tools:
 
 <p align="left">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,7 +70,7 @@
 </p>
 
 <br/>
-<h3>📊 Statistics</h3>
+## 📊 Statistics
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en" alt="keelan-matthews" />
 
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en&langs_count=8&hide=Makefile,CMake,C&layout=compact" alt="keelan-matthews" />
