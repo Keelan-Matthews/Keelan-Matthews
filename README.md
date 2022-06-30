@@ -72,7 +72,7 @@
 ## 📊 Statistics
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en" alt="keelan-matthews" />
 
-&nbsp;<img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en&langs_count=8&hide=Makefile,CMake,C&layout=compact" alt="keelan-matthews" />
+&nbsp;<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=keelan-matthews&show_icons=true&theme=none&bg_color=191c21&text_color=C9D1D2&hide_border=true&locale=en&langs_count=8&hide=Makefile,CMake,C&layout=compact" alt="keelan-matthews" />
 
 <br/><br/><br/><br/><br/><br/><br/>
 
