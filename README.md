@@ -43,7 +43,9 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 </p>
 
 ### ⭐ Programming
