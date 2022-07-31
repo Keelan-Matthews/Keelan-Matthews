@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently studying [BIS Multimedia](https://www.up.ac.za/information-science/article/1821932/bis-multimedia) at [University of Pretoria](https://www.up.ac.za/)
 
-- 🌱 I’m currently learning **Assembly, Next.js, Node.js**
+- 🌱 I’m currently learning **Assembly, Concurrency, Design Patterns**
 
 - 🌐 Check out my website here [keelanmatthews.com](keelanmatthews.com)
 
