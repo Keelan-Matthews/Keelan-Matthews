@@ -27,7 +27,7 @@
 ### ⭐ Back-end
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,regex" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,regex,python" />
   </a>
 </p>
 
