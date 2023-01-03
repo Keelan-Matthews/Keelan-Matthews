@@ -3,13 +3,13 @@
 
 - 🎓 I’m currently studying [BIS Multimedia](https://www.up.ac.za/information-science/article/1821932/bis-multimedia) at [University of Pretoria](https://www.up.ac.za/)
 
-- 🌱 I’m currently learning **Assembly, Concurrency, Design Patterns**
+- 🌱 I’m currently learning **AI, Unity, Database Systems**
 
 - 🌐 Check out my website here [keelanmatthews.com](keelanmatthews.com)
 
-- ✅ View my website repository [portfolio-website](https://github.com/Keelan-Matthews/portfolio-website)
+- ✅ View my website repository [my-portfolio](https://github.com/Keelan-Matthews/my-portfolio)
 
-- 📫 How to reach me **keelanmatthews123@gmail.com**
+- 📫 How to reach me **contact@keelanmatthews.com**
 
 - ⚡ Fun fact **I enjoy making music and playing piano**
 
