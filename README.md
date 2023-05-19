@@ -27,21 +27,21 @@
 ### ⭐ Back-end
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,regex" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,django,postgres,regex" />
   </a>
 </p>
 
 ### ⭐ Software
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,blender,vscode,idea,netlify" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,blender,vscode,idea,netlify,unity" />
   </a>
 </p>
 
 ### ⭐ Programming
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,git,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,git,python" />
   </a>
 </p>
 
