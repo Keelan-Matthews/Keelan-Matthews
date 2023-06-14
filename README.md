@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, Unity, Database Systems**
 
-- 🌐 Check out my website here [keelanmatthews.com](keelanmatthews.com)
+- 🌐 Check out my website here [keelanmatthews.com](https://keelanmatthews.com)
 
 - ✅ View my website repository [my-portfolio](https://github.com/Keelan-Matthews/my-portfolio)
 
