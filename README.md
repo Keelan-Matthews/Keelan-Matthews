@@ -20,7 +20,7 @@
 ### ⭐ Front-end
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,vue,nextjs,jquery" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,react,vue,nextjs,jquery,angular" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 ### ⭐ Programming
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,git,python" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,git,python" />
   </a>
 </p>
 
