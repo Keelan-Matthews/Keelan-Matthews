@@ -93,7 +93,3 @@
 <!--<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keelan Matthews' Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Keelan-Matthews&bg_color=191c21&color=C9D1D2&line=2C76D9&point=FFFFFF&hide_border=true" /></a></p>-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keelan-Matthews&bg_color=191c21&color=C9D1D2&line=2C76D9&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-### ⚠️ My commits this year are lacking because my final year projects are being stored using [Plastic SCM](https://www.plasticscm.com/) due to Unity compatibility
