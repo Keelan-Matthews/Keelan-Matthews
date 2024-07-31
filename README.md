@@ -1,14 +1,11 @@
 <h1 align="center">Hey there, I'm Keelan Matthews 👋</h1>
-<h3 align="center">An aspiring web developer from South Africa, with a love for creativity</h3>
+<h3 align="center">A Full Stack Software Engineer from South Africa, with a love for creativity</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Keelan-Matthews&style=flat" />
   <img src="https://wakatime.com/badge/user/2054cf19-1354-44bd-9f51-400121e8cb2d.svg?style=flat" alt="Total time coded since June 28 2022" />
 </p>
 
-- 🎓 I’m currently studying [BIS Multimedia](https://www.up.ac.za/information-science/article/1821932/bis-multimedia) at [University of Pretoria](https://www.up.ac.za/)
-
-- 🌱 I’m currently learning **AI, Unity, Database Systems**
 
 - 🌐 Check out my website here [keelanmatthews.com](https://keelanmatthews.com)
 
