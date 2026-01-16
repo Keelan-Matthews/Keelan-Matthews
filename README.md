@@ -22,28 +22,21 @@
 ### ⭐ Front-end
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,react,vue,nextjs,jquery,angular" />
+    <img src="https://skillicons.dev/icons?i=angular,nextjs,bootstrap,sass" />
   </a>
 </p>
 
 ### ⭐ Back-end
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,django,postgres,regex" />
+    <img src="https://skillicons.dev/icons?i=dotnet,express,mongodb,mysql,postgres" />
   </a>
 </p>
 
 ### ⭐ Software
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,blender,vscode,idea,netlify,unity" />
-  </a>
-</p>
-
-### ⭐ Programming
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,git,python" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,blender" />
   </a>
 </p>
 
